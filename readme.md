@@ -51,6 +51,8 @@ Les points d'attention :
 9. Installer le projet
 10. Configurer le projet (.env + BDD)
 11. Démarrer l'application
+12. Faire tourner l'application en tâche de fond
+13. Rendre la chose accessible en ligne via un reverse proxy
 
 
 
