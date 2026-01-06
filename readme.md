@@ -39,3 +39,12 @@ Les points d'attention :
 - Faire évoluer et migrer le serveur
 
 ## Plan de déploiement
+
+1. Commander le serveur
+2. Se connecter en SSH
+3. Mettre à jour les paquets
+4. Installer NodeJS. (via NVM)
+
+
+
+
