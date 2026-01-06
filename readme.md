@@ -44,6 +44,13 @@ Les points d'attention :
 2. Se connecter en SSH
 3. Mettre à jour les paquets
 4. Installer NodeJS. (via NVM)
+5. Installer la Base de données
+6. Créer la base de données
+7. Configurer Github
+8. Cloner le projet
+9. Installer le projet
+10. Configurer le projet (.env + BDD)
+11. Démarrer l'application
 
 
 
